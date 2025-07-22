@@ -1,17 +1,12 @@
 const phrases = [
-    `hi guys`,
-    `cheese`,
-    `dont type this on your keyboard: up, up, down, down, left, right, left, right, B, A, enter`,
-    `emerity said you should watch bleach`,
-    `im going to put bleach in your eyes`,
-    `shoutout to @literalaj on yt`,
-    `im in your walls`,
-    `"play the strongest battlegrounds" - literalaj`,
-    /*{ other: 'loop', width: '200px', type: "video", src: `https://media.tenor.com/SIpmtvnEsDIAAAPo/rotating-chips.mp4` },*/
-    `jackson is batman`,
-    `jacob is the WORST violin. Make sure to bully him (8th grade violin, probably 400 pounds tbh)`,
-    /*{ type: "image", width: '400px', src: `https://c.tenor.com/9MVlipGuNioAAAAC/tenor.gif` },*/
-    `"im the best kahoot player" - Jay C`,
+    `7-7-7-8`,
+    `ION Game Vault`,
+    `Phoenix Games`,
+    `7-7-7-9`,
+    `7-7-7-10`,
+     `US4 clone`,
+  `7-7-7-11`,
+    
 ];
 
 const paragraph = document.getElementById('dynamicParagraph');
